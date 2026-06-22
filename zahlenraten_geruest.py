@@ -11,8 +11,8 @@
 #  Über jeder Funktion steht als Kommentar, was sie tun soll.
 #  Tipp: Bau eine Funktion nach der anderen und teste zwischendurch!
 # =====================================================
-
-
+x = ("Hallo Welt")
+print (x)
 # random ist ein "Werkzeugkasten" von Python,
 # mit dem man Zufallszahlen erzeugen kann. Den brauchen wir gleich.
 import random
